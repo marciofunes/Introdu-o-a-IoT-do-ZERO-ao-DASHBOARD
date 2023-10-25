@@ -20,7 +20,7 @@ Protocoto MQTT
 - Confiável: Muitos dispositivos IoT se conectam em redes celulares não confiáveis com baixa largura de banda e alta latência.
 - Seguro: facilidade para criptografar mensagens e autenticar dispositivos e usuários.
 
-![exemplo mqtt]([http://url/to/img.png](https://github.com/marciofunes/Introdu-o-a-IoT-do-ZERO-ao-DASHBOARD/blob/main/Screenshot_4.png))
+![exemplo MQTT](Screenshot_4.png)
 
 Links:
 
@@ -43,7 +43,7 @@ Links:
 
 6 - Endpoint de Integração: https://pipedream.com/
 
-imagem
+![exemplo MQTT](Screenshot_5.png)
 
 ## Dashboard das Coisas 🦄
 
@@ -69,7 +69,7 @@ Exemplos Dashboards
 
 Publicação:
 
-imagem
+![exemplo MQTT](Screenshot_6.png)
 
 12 - Broker MQTT + Dashboard: https://tago.io/
 
@@ -81,8 +81,8 @@ Atuação
 
 14 - Irrigação Horta - Projeto Pronto: https://wokwi.com/projects/379574125693767681
 
-imagem
+![exemplo MQTT](Screenshot_7.png)
 
 ## Até breve ❤️
 
-Obrigado pela presença :D
+Obrigado pela sua participação :D
