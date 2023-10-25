@@ -20,7 +20,7 @@ Protocoto MQTT
 - Confiável: Muitos dispositivos IoT se conectam em redes celulares não confiáveis com baixa largura de banda e alta latência.
 - Seguro: facilidade para criptografar mensagens e autenticar dispositivos e usuários.
 
-imagem
+![exemplo mqtt]([http://url/to/img.png](https://github.com/marciofunes/Introdu-o-a-IoT-do-ZERO-ao-DASHBOARD/blob/main/Screenshot_4.png))
 
 Links:
 
