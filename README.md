@@ -1,4 +1,4 @@
-# Introdu-o-a-IoT-do-ZERO-ao-DASHBOARD 📜
+# Introdução à Internet das Coisas: Do Zero ao Dasboard 📜
 Minicurso Facet Franca - TechWeek 2023
 
 ## Agenda ☕️
